@@ -1,6 +1,6 @@
 ### Hi there, I'm Milan Jovanović! 👋
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milan-jovanovic/)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milan-jovanovic)
 
 **I'm a Software Engineer, Technology Geek and an avid DDD Enthusiast.**
 
@@ -11,6 +11,6 @@
 
 <hr/>
 
-<a href="https://github.com/m-jovanovic/">
+<a href="https://github.com/m-jovanovic">
   <img src="https://github-readme-stats.vercel.app/api?username=m-jovanovic&count_private=true&show_icons=true&hide=stars" />
 </a>
