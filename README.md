@@ -1,5 +1,7 @@
 ### Hi there, I'm Milan Jovanović! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=m-jovanovic&color=blue)</div>
 
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/MilanJovanovicTech)
+
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milan-jovanovic)
 
 ## **I'm a Software Engineer, Technology Geek and an avid DDD Enthusiast.**
