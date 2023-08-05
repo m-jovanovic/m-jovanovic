@@ -1,17 +1,18 @@
 ### Hi there, I'm Milan Jovanović! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=m-jovanovic&color=blue)</div>
 
-[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/MilanJovanovicTech)
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://www.milanjovanovic.tech/)
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milan-jovanovic)
+[![YouTube URL](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/c/MilanJovanovicTech)
 
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mjovanovictech)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/milan-jovanovic)
 
-## **I'm a Software Engineer, Technology Geek and an avid DDD Enthusiast.**
+[![Twitter URL](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/mjovanovictech)
 
-- 🎯 **I’m currently working on**: Mastering the intricacies of DDD and some advanced software architectures.
-- 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD /w Github Actions.
+## **I'm a Software Architect and Microsoft MVP.**
+
+- 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
+- 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
-- ⚡ **Fun fact**: I love 📚, ♟, 🏀 and lots of ☕.
 
 <hr/>
 
